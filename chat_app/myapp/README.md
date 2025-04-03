@@ -10,7 +10,7 @@ Um aplicativo de chat desenvolvido com Flutter e Firebase, permitindo enviar men
 
 📦 **Instalação**  
 ```bash
-git clone 
+git clone https://github.com/Leonardo2106/chat_app
 cd myapp
 flutter pub get
 flutter run
