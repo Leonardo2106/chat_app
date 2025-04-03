@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828390526719",
+    "project_id": "erospsiquefefa-787d3",
+    "storage_bucket": "erospsiquefefa-787d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828390526719:android:90a0ce7bf6f26b413c06ca",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-Zo-O74b3jhZns9uCdwt5WFS6XdRuQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828390526719:android:cdd030b3a772522f3c06ca",
+        "android_client_info": {
+          "package_name": "com.jujeleo.erospsique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-Zo-O74b3jhZns9uCdwt5WFS6XdRuQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
